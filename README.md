@@ -11,7 +11,7 @@
 
 ---
 
-👨‍💻 Front-End Developer based in **Italy** 🇮🇹, specializing in **React.js** and **Node.js**.
+👨‍💻 Front-End Developer based in **Brazil** BR, specializing in **React.js** and **Node.js**.
 
 I'm passionate about turning complex problems into clean, scalable, and user-friendly web applications. Currently seeking new opportunities to contribute my skills to innovative projects in the European tech scene.
 
