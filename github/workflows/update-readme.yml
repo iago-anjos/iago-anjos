@@ -1,0 +1,25 @@
+name: Update README
+
+on:
+  schedule:
+    # Roda a cada 30 minutos. Se quiser menos frequente, troque por "0 */6 * * *" (a cada 6h)
+    - cron: "*/30 * * * *"
+  # Permite rodar manualmente pela aba Actions do GitHub
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "chore: update README with recent activity"
+          MAX_LINES: 10
+          COMMIT_NAME: "github-actions[bot]"
