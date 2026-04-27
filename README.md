@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/iago-anjos">
-    <img src="https://github-readme-stats.vercel.app/api?username=iago-anjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Iago's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=iago-anjos&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Iago's GitHub Stats"/>
   </a>
   <a href="https://github.com/iago-anjos">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-anjos&layout=compact&langs_count=8&theme=dracula" alt="Iago's Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-anjos&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Iago's Top Languages"/>
   </a>
 </p>
 
@@ -50,7 +50,7 @@ I work end-to-end on online stores — from custom storefronts in **React** and 
 **E-commerce Platforms**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logo=vtex&logoColor=white" alt="VTEX"/>
+  <img src="https://img.shields.io/badge/VTEX-F71963?style=for-the-badge&logoColor=white" alt="VTEX"/>
   <img src="https://img.shields.io/badge/VTEX_IO-F71963?style=for-the-badge&logoColor=white" alt="VTEX IO"/>
   <img src="https://img.shields.io/badge/FastStore-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="FastStore"/>
   <img src="https://img.shields.io/badge/Nuvemshop-1572B6?style=for-the-badge&logoColor=white" alt="Nuvemshop"/>
