@@ -17,7 +17,7 @@ I work end-to-end on online stores — from custom storefronts in **React** and 
 
 🌍 Open to remote opportunities, including positions in the European tech scene.
 
-📫 **[LinkedIn](https://www.linkedin.com/in/iagokaued/)** • ✉️ **seu@email.com**
+📫 **[LinkedIn](https://www.linkedin.com/in/iago-anjos/)** • ✉️ **iagokaued@gmail.com**
 
 ---
 
